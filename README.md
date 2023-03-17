@@ -24,18 +24,12 @@ For getting updates via mail, user can add their email id and subscribe so that 
 Any user can share its information related to technical topic to all users after creating their account here.
 
 Drawbacks:
-
  Does not contain real details of the website as it is a sample website.
-
 Does not have back-end so there is minimal functionality.
-
 Can not save information as it does not have database.
 
 
 Steps to run the project:
-
  Clone or download source code from Github.
- 
 You can download it directly, or use a tool like Git-bash, tortoise git...
-
 Run this source code, depending on the language of the source code.
