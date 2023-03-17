@@ -10,6 +10,7 @@ This is a simple Educational Blog website. It is a responsive front-end static w
 This website provide every single update in this technical world to the user.
 
 Azure Website Deployment URL: https://yellow-sea-003fc8710.2.azurestaticapps.net
+
 Note: Used Lorem Ipsum content for sample website.
 
 Layouts
