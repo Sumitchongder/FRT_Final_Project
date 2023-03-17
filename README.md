@@ -9,6 +9,7 @@ Therefore, this project is not intended for commercial deployment.
 This is a simple Educational Blog website. It is a responsive front-end static website designed by using HTML, CSS and JavaScript. It allows the users to have a look on layout of the website having different features. Any user (Programmer) can have a look on different features of layout of the webiste like Home, About, Category, Pages, Contact Us, etc.
 This website provide every single update in this technical world to the user.
 
+Azure Website Deployment URL: https://yellow-sea-003fc8710.2.azurestaticapps.net
 Note: Used Lorem Ipsum content for sample website.
 
 Layouts
