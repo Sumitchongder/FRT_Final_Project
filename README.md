@@ -3,12 +3,13 @@
 ## About The Project:
  This is a sample project created for the purpose of learning and demonstration of Microsoft Azure skills during the Future Ready Talent Program
  
-### Literate WebApp Deployment URL: https://yellow-sea-003fc8710.2.azurestaticapps.net 
+### Azure Deployment URL: https://yellow-sea-003fc8710.2.azurestaticapps.net 
+### Azure Deployment Video: https://drive.google.com/file/d/1FiNHVCB8pt7cSlBbIvhtNK7UTCjXb07m/view?usp=sharing
 
-Therefore, this project is not intended for commercial deployment.
 
 This is a simple Educational Blog website. It is a responsive front-end static website designed by using HTML, CSS and JavaScript. It allows the users to have a look on layout of the website having different features. Any user (Programmer) can have a look on different features of layout of the webiste like Home, About, Category, Pages, Contact Us, etc.
-This website provide every single update in this technical world to the user.
+This website provide every single update in this technical world to the user. 
+Therefore, this project is not intended for commercial deployment.
 Note: Used Lorem Ipsum content for sample website.
 
 ## Layouts:
