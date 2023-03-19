@@ -2,7 +2,9 @@
 
 ## About The Project:
  This is a sample project created for the purpose of learning and demonstration of Microsoft Azure skills during the Future Ready Talent Program
- 
+
+####Primary Azure Technology Used: Static Web App, Web App, App Service
+
 ### Azure Deployment URL: https://yellow-sea-003fc8710.2.azurestaticapps.net 
 ### GitHub URL: https://sumitchongder.github.io/FRT_Final_Project/
 ### Azure Deployment Video: https://drive.google.com/file/d/1FiNHVCB8pt7cSlBbIvhtNK7UTCjXb07m/view?usp=sharing
