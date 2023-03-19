@@ -5,7 +5,7 @@
 
 
 ### Azure Deployment URL: https://yellow-sea-003fc8710.2.azurestaticapps.net 
-### GitHub URL: https://sumitchongder.github.io/FRT_Final_Project/
+### GitHub Deployment URL: https://sumitchongder.github.io/FRT_Final_Project/
 ### Azure Deployment Video: https://drive.google.com/file/d/1FiNHVCB8pt7cSlBbIvhtNK7UTCjXb07m/view?usp=sharing
 
 
