@@ -46,6 +46,9 @@ The Web App asks us whether we want to deploy the Code, Docker Container or Stat
 ![FRT 5](https://user-images.githubusercontent.com/77958774/227238331-5f715e33-31b1-4316-a60a-9b0dfdfd4eea.png)
 ![FRT 6](https://user-images.githubusercontent.com/77958774/227238418-95a3aea8-7624-47ba-874c-b7a941c47e8a.png)
 
+## Integrating Storage Account with Static Web App
+![FRT 12](https://user-images.githubusercontent.com/77958774/227263458-b0b7b7ec-25d8-4bc3-a09a-b3a5860ab09f.png)
+
 ## Project Demo Screenshots:
 ![Screenshot (93)](https://user-images.githubusercontent.com/77958774/227239584-69860598-c939-4742-b725-192493c31965.png)
 ![Screenshot (94)](https://user-images.githubusercontent.com/77958774/227239730-ac60c8c6-0616-4175-9a5f-bbcae33bf610.png)
