@@ -28,7 +28,7 @@ Following that, we will create a Container to hold all of the images, and we wil
 ![FRT 11](https://user-images.githubusercontent.com/77958774/227235138-24fa3100-45fa-4536-b431-5fe21addcc33.png)
 ![FRT 10](https://user-images.githubusercontent.com/77958774/227235221-122ed3cd-807e-4275-bb61-f4cb83e70503.png)
 
-### Some Storage Accounts|Containers -> Images links to verify that I have used Storage Account Service in Azure
+### Some Storage Accounts|Containers -> Images links to verify that, I have used Storage Account Service in this Project.
  https://frtproject92cd.blob.core.windows.net/frtprojectimages/join.jpg   
  https://frtproject92cd.blob.core.windows.net/frtprojectimages/banner.jpg
  https://frtproject92cd.blob.core.windows.net/frtprojectimages/logo1.png
@@ -47,7 +47,7 @@ The Web App asks us whether we want to deploy the Code, Docker Container or Stat
 ![FRT 6](https://user-images.githubusercontent.com/77958774/227238418-95a3aea8-7624-47ba-874c-b7a941c47e8a.png)
 
 ## Integrating Storage Account with Static Web App
-Inorder to Integrate the Storage Account with Static Web App we navigate to the Settings of the Static Web App and in the Configuration we click on Application Settings and Click on Add Option and Paste teh URL of the Storage Account.
+Inorder to Integrate the Storage Account with Static Web App we navigate to the Settings of the Static Web App and in the Configuration we click on Application Settings and Click on Add Option and Paste the URL of the Storage Account.
 ![FRT 13](https://user-images.githubusercontent.com/77958774/227265203-3a4e1eb2-3f38-4578-b714-2730e1dbfbaf.png)
 ![FRT 12](https://user-images.githubusercontent.com/77958774/227263458-b0b7b7ec-25d8-4bc3-a09a-b3a5860ab09f.png)
 
