@@ -12,12 +12,14 @@
 This is a simple Educational Blog website. It is a responsive front-end static website designed by using HTML, CSS and JavaScript. It allows the users to have a look on layout of the website having different features. Any user (Programmer) can have a look on different features of layout of the webiste like Home, About, Category, Pages, Contact Us, etc.
 This website provide every single update in this technical world to the user. 
 Therefore, this project is not intended for commercial deployment.
+#### Azure Storage Accounts: Azure Storage Accounts provide scalable and secure cloud storage for various types of data, including blobs, files, queues, tables, and disks. In this project, I have utilized containers in storage account to store the Images used in the webpage
+#### Azure Static Web Apps: Azure Static Web Apps is a cloud-based service that simplifies the deployment of static web applications and provides built-in continuous deployment, authentication, and serverless APIs. In this project, I have utilized Static Web Apps to deploy/host the webpage
 Note: Used Lorem Ipsum content for sample website.
 
-## How Azure Services are consumed in My Project: Literate Web App [Steps to Create & Utilize are shown below]
+## How Azure Services are consumed in this Project: Literate Web App [Steps to Create & Utilize are shown below]
 ## First Azure Service: Storage Accounts
 
-Firstly, we'll create a storage account in which to store all the images needed for or used by our website.
+Firstly, we'll create a storage account in which to store all the images needed for or used by our webpage.
 ![FRT 7](https://user-images.githubusercontent.com/77958774/227234439-178f62bf-8ca2-4eee-8e91-63bad58b288a.png)
 
 Following that, we will create a Container to hold all of the images, and we will drag and drop each image into the Container.
