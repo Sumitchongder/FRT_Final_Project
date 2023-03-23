@@ -15,7 +15,15 @@ Therefore, this project is not intended for commercial deployment.
 Note: Used Lorem Ipsum content for sample website.
 
 ## How Azure Services are consumed in My Project: Literate Web App
-![Screenshot of how to create Web App](https://frtproject92cd.blob.core.windows.net/frtprojectimages/FRT 1.png "Creating Web App")
+
+First of all we will create a Storage Account where we will store all the Images required/utilized by our Webpage  
+![FRT 7](https://user-images.githubusercontent.com/77958774/227234439-178f62bf-8ca2-4eee-8e91-63bad58b288a.png)
+
+After this we will create a Container to store all the Images and then we drag and drop all the Images
+![FRT 8](https://user-images.githubusercontent.com/77958774/227234636-c33e76d1-3492-4dc4-a0ec-d6bce18dedd8.png)
+![FRT 9](https://user-images.githubusercontent.com/77958774/227234984-e30c60dc-c209-4bd8-8dbb-d99607f75676.png)
+![FRT 11](https://user-images.githubusercontent.com/77958774/227235138-24fa3100-45fa-4536-b431-5fe21addcc33.png)
+![FRT 10](https://user-images.githubusercontent.com/77958774/227235221-122ed3cd-807e-4275-bb61-f4cb83e70503.png)
 
 
 ## Layouts:
