@@ -3,7 +3,7 @@
 ## About The Project:
  This is a sample project created for the purpose of learning and demonstration of Microsoft Azure skills during the Future Ready Talent Program
 
-### Azure Services Used: Web Apps, Static Web Apps, Storage Accounts.
+## Azure Services Used: Web Apps, Static Web Apps, Storage Accounts.
 ### Azure Deployment URL: https://jolly-plant-0cc8d9910.2.azurestaticapps.net
 ### GitHub Deployment URL: https://sumitchongder.github.io/FRT_Final_Project/
 ### Azure Deployment Video: 
@@ -51,8 +51,8 @@ The Web App asks us whether we want to deploy the Code, Docker Container or Stat
 ![Screenshot (96)](https://user-images.githubusercontent.com/77958774/227239814-8c637fba-4bf9-4ea5-9bc0-810a200eafeb.png)
 ![Screenshot (97)](https://user-images.githubusercontent.com/77958774/227239841-64eb63d2-696c-4153-8b8c-c5226b249494.png)
 ![Screenshot (98)](https://user-images.githubusercontent.com/77958774/227239876-d5b7c3fd-b12c-4e18-b963-2500ec52ebeb.png)
-![Screenshot (100)](https://user-images.githubusercontent.com/77958774/227240057-b808996b-0973-4204-a3df-0e109ac5e566.png)
 ![Screenshot (99)](https://user-images.githubusercontent.com/77958774/227240017-d05ca115-94fd-4279-a9d0-bbd5b59a54c3.png)
+![Screenshot (100)](https://user-images.githubusercontent.com/77958774/227240057-b808996b-0973-4204-a3df-0e109ac5e566.png)
 
 ## Layouts:
  This is a single page website and it has pretty responsive and animated layout for user to catch attention.
