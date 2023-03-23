@@ -26,6 +26,13 @@ Following that, we will create a Container to hold all of the images, and we wil
 ![FRT 11](https://user-images.githubusercontent.com/77958774/227235138-24fa3100-45fa-4536-b431-5fe21addcc33.png)
 ![FRT 10](https://user-images.githubusercontent.com/77958774/227235221-122ed3cd-807e-4275-bb61-f4cb83e70503.png)
 
+### Some Storage Accounts|Containers -> Images links to verify that I have used Storage Account Service in Azure
+https://frtproject92cd.blob.core.windows.net/frtprojectimages/avatar1.jpg
+https://frtproject92cd.blob.core.windows.net/frtprojectimages/b1.jpg
+https://frtproject92cd.blob.core.windows.net/frtprojectimages/banner.jpg
+https://frtproject92cd.blob.core.windows.net/frtprojectimages/logo1.png
+https://frtproject92cd.blob.core.windows.net/frtprojectimages/team1.jpg
+
 ## Second Azure Service: Web Apps, Static Web Apps
 
 We'll develop a web app to host our website after generating the storage account.
