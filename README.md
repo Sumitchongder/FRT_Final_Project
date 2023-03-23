@@ -4,7 +4,7 @@
  This is a sample project created for the purpose of learning and demonstration of Microsoft Azure skills during the Future Ready Talent Program
 
 
-### Azure Deployment URL: https://yellow-sea-003fc8710.2.azurestaticapps.net 
+### Azure Deployment URL: https://jolly-plant-0cc8d9910.2.azurestaticapps.net
 ### GitHub Deployment URL: https://sumitchongder.github.io/FRT_Final_Project/
 ### Azure Deployment Video: https://drive.google.com/file/d/1FiNHVCB8pt7cSlBbIvhtNK7UTCjXb07m/view?usp=sharing
 
