@@ -3,18 +3,17 @@
 ## About The Project:
  This is a sample project created for the purpose of learning and demonstration of Microsoft Azure skills during the Future Ready Talent Program
 
-## Azure Services Used: Web Apps, Static Web Apps, Storage Accounts.
-### Azure Deployment URL: https://jolly-plant-0cc8d9910.2.azurestaticapps.net
-### GitHub Deployment URL: https://sumitchongder.github.io/FRT_Final_Project/
-### Azure Deployment Video: https://drive.google.com/file/d/1h8PuFBp0d-fQN3o_7Jf_6d5_W3GMG-fO/view?usp=sharing 
-
-
 This is a simple Educational Blog website. It is a responsive front-end static website designed by using HTML, CSS and JavaScript. It allows the users to have a look on layout of the website having different features. Any user (Programmer) can have a look on different features of layout of the webiste like Home, About, Category, Pages, Contact Us, etc.
 This website provide every single update in this technical world to the user. 
 Therefore, this project is not intended for commercial deployment.
 #### Azure Storage Accounts: Azure Storage Accounts provide scalable and secure cloud storage for various types of data, including blobs, files, queues, tables, and disks. In this project, I have utilized containers in storage account to store the Images used in the webpage
 #### Azure Static Web Apps: Azure Static Web Apps is a cloud-based service that simplifies the deployment of static web applications and provides built-in continuous deployment, authentication, and serverless APIs. In this project, I have utilized Static Web Apps to deploy/host the webpage
 Note: Used Lorem Ipsum content for sample website.
+
+## Azure Services Used: Web Apps, Static Web Apps, Storage Accounts.
+### Azure Deployment URL: https://jolly-plant-0cc8d9910.2.azurestaticapps.net
+### GitHub Deployment URL: https://sumitchongder.github.io/FRT_Final_Project/
+### Azure Deployment Video: https://drive.google.com/file/d/1h8PuFBp0d-fQN3o_7Jf_6d5_W3GMG-fO/view?usp=sharing 
 
 ## How Azure Services are consumed in this Project: Literate Web App [Steps to Create & Utilize are shown below]
 ## First Azure Service: Storage Accounts
