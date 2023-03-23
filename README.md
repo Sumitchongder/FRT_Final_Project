@@ -6,7 +6,7 @@
 ## Azure Services Used: Web Apps, Static Web Apps, Storage Accounts.
 ### Azure Deployment URL: https://jolly-plant-0cc8d9910.2.azurestaticapps.net
 ### GitHub Deployment URL: https://sumitchongder.github.io/FRT_Final_Project/
-### Azure Deployment Video: 
+### Azure Deployment Video: https://drive.google.com/file/d/1h8PuFBp0d-fQN3o_7Jf_6d5_W3GMG-fO/view?usp=sharing 
 
 
 This is a simple Educational Blog website. It is a responsive front-end static website designed by using HTML, CSS and JavaScript. It allows the users to have a look on layout of the website having different features. Any user (Programmer) can have a look on different features of layout of the webiste like Home, About, Category, Pages, Contact Us, etc.
