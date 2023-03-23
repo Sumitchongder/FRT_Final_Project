@@ -15,7 +15,7 @@ Therefore, this project is not intended for commercial deployment.
 Note: Used Lorem Ipsum content for sample website.
 
 ## How Azure Services are consumed in My Project: Literate Web App
-![Screenshot of how to create Web App](C:\Users\Sumit\Downloads\FRT 1.png "Optional title")
+![Screenshot of how to create Web App](https://frtproject92cd.blob.core.windows.net/frtprojectimages/FRT 1.png "Creating Web App")
 
 
 ## Layouts:
