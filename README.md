@@ -3,16 +3,20 @@
 ## About The Project:
  This is a sample project created for the purpose of learning and demonstration of Microsoft Azure skills during the Future Ready Talent Program
 
-
+### Azure Services Used: Web Apps, Static Web Apps, Storage Accounts.
 ### Azure Deployment URL: https://jolly-plant-0cc8d9910.2.azurestaticapps.net
 ### GitHub Deployment URL: https://sumitchongder.github.io/FRT_Final_Project/
-### Azure Deployment Video: https://drive.google.com/file/d/1FiNHVCB8pt7cSlBbIvhtNK7UTCjXb07m/view?usp=sharing
+### Azure Deployment Video: 
 
 
 This is a simple Educational Blog website. It is a responsive front-end static website designed by using HTML, CSS and JavaScript. It allows the users to have a look on layout of the website having different features. Any user (Programmer) can have a look on different features of layout of the webiste like Home, About, Category, Pages, Contact Us, etc.
 This website provide every single update in this technical world to the user. 
 Therefore, this project is not intended for commercial deployment.
 Note: Used Lorem Ipsum content for sample website.
+
+## How Azure Services are consumed in My Project: Literate Web App
+![Screenshot of how to create Web App](C:\Users\Sumit\Downloads\FRT 1.png "Optional title")
+
 
 ## Layouts:
  This is a single page website and it has pretty responsive and animated layout for user to catch attention.
