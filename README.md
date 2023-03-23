@@ -47,6 +47,8 @@ The Web App asks us whether we want to deploy the Code, Docker Container or Stat
 ![FRT 6](https://user-images.githubusercontent.com/77958774/227238418-95a3aea8-7624-47ba-874c-b7a941c47e8a.png)
 
 ## Integrating Storage Account with Static Web App
+Inorder to Integrate the Storage Account with Static Web App we navigate to the Settings of the Static Web App and in the Configuration we click on Application Settings and Click on Add Option and Paste teh URL of the Storage Account.
+![FRT 13](https://user-images.githubusercontent.com/77958774/227265203-3a4e1eb2-3f38-4578-b714-2730e1dbfbaf.png)
 ![FRT 12](https://user-images.githubusercontent.com/77958774/227263458-b0b7b7ec-25d8-4bc3-a09a-b3a5860ab09f.png)
 
 ## Project Demo Screenshots:
