@@ -28,7 +28,6 @@ Following that, we will create a Container to hold all of the images, and we wil
 
 ### Some Storage Accounts|Containers -> Images links to verify that I have used Storage Account Service in Azure
  https://frtproject92cd.blob.core.windows.net/frtprojectimages/join.jpg   
- https://frtproject92cd.blob.core.windows.net/frtprojectimages/b1.jpg
  https://frtproject92cd.blob.core.windows.net/frtprojectimages/banner.jpg
  https://frtproject92cd.blob.core.windows.net/frtprojectimages/logo1.png
 https://frtproject92cd.blob.core.windows.net/frtprojectimages/team1.jpg
