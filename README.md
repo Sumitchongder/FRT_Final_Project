@@ -24,6 +24,8 @@ Firstly, we'll create a storage account in which to store all the images needed 
 Following that, we will create a Container to hold all of the images, and we will drag and drop each image into the Container.
 ![FRT 8](https://user-images.githubusercontent.com/77958774/227234636-c33e76d1-3492-4dc4-a0ec-d6bce18dedd8.png)
 ![FRT 9](https://user-images.githubusercontent.com/77958774/227234984-e30c60dc-c209-4bd8-8dbb-d99607f75676.png)
+
+Within the Storage Accounts|Container -> frtprojectimages, I have stored all the Images that are been used in the Webpage Development.
 ![FRT 11](https://user-images.githubusercontent.com/77958774/227235138-24fa3100-45fa-4536-b431-5fe21addcc33.png)
 ![FRT 10](https://user-images.githubusercontent.com/77958774/227235221-122ed3cd-807e-4275-bb61-f4cb83e70503.png)
 
@@ -35,10 +37,10 @@ https://frtproject92cd.blob.core.windows.net/frtprojectimages/team1.jpg
 
 ## Second Azure Service: Web Apps, Static Web Apps
 
-We'll develop a web app to host our website after generating the storage account.
+We will develop a web app to host our website after generating the storage account.
 ![FRT 1](https://user-images.githubusercontent.com/77958774/227236657-b55173d0-154a-47c1-b6ce-c1c6cb67479c.png)
 
-The Web App asks us whether we want to deploy the Code, Docker Container or Static Web App, we select Static Web App to deploy our Website & accordingly create the Static Web App.
+The Web App asks us whether we want to deploy the Code, Docker Container or Static Web App, we select Static Web App to deploy our Website & follow the steps given below to create the Static Web App.
 ![FRT 2](https://user-images.githubusercontent.com/77958774/227237622-cfc07c3f-168c-4116-87d2-24a73b7be849.png)
 ![FRT 3](https://user-images.githubusercontent.com/77958774/227237721-bfccebbe-bb78-4c81-86a3-de575c8bea43.png)
 ![FRT 4](https://user-images.githubusercontent.com/77958774/227238136-31a2a36e-be08-4f8f-8baf-df9e5fa4b1e2.png)
