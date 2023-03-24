@@ -38,7 +38,7 @@ Within the Storage Accounts|Container -> frtprojectimages, I have stored all the
  https://frtproject92cd.blob.core.windows.net/frtprojectimages/logo1.png
 https://frtproject92cd.blob.core.windows.net/frtprojectimages/team1.jpg
 
-## Second Azure Service: Web Apps, Static Web Apps
+## Second Azure Service: Web App, Static Web App
 
 We will develop a web app to host our website after generating the storage account.
 
