@@ -36,7 +36,11 @@ Within the Storage Accounts|Container -> frtprojectimages, I have stored all the
  https://frtproject92cd.blob.core.windows.net/frtprojectimages/join.jpg   
  https://frtproject92cd.blob.core.windows.net/frtprojectimages/banner.jpg
  https://frtproject92cd.blob.core.windows.net/frtprojectimages/logo1.png
-https://frtproject92cd.blob.core.windows.net/frtprojectimages/team1.jpg
+ https://frtproject92cd.blob.core.windows.net/frtprojectimages/team1.jpg
+ https://frtproject92cd.blob.core.windows.net/frtprojectimages/about.jpg
+ https://frtproject92cd.blob.core.windows.net/frtprojectimages/avatar1.jpg
+https://frtproject92cd.blob.core.windows.net/frtprojectimages/avatar4.jpg
+
 
 ## Second Azure Service: Web App, Static Web App
 
